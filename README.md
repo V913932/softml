@@ -19,5 +19,5 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/softml.git
+git clone https://github.com/V913932/softml.git
 cd softml
